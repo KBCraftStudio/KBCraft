@@ -32,3 +32,5 @@ export default defineConfig({
     }
   }
 })
+
+//base: "/KBCraft/"
